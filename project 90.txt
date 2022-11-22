@@ -1,0 +1,17 @@
+1. cleaniness 
+2. agriculture 
+3. illiteracy
+4. hunger
+
+solutions:
+1. make the public aware of the motion. If anybody witness somebody throwing garbage here and there they can register the detail
+about that person in the appication. the appication the data and look at that person not reapeat that.
+
+2.The farmers of our country are being manipulated by different party for their own benifits. creating this application will
+make farmers aware of their right and motivate them towards organic farming as the consumption of chemicals has increased.
+
+3. The biggest issue of India is illiteracy, with help of this app a person can register the detail of any childlabour or
+somebody who wants to study but is not pay for it.
+
+4. In India, their is 10% of the people who are dying because of hunger, the application will have the data about the location
+of the needy, this can help them provide them a meal for the day.
